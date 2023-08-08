@@ -1,0 +1,14 @@
+The sequence of integers is given. Increase by 2 each its non-negative element.
+
+Input data
+In the first line the number of sequence elements n (n ≤ 100) is given. In the second line the sequence elements are given, each of them does not exceed 100 by absolute value.
+
+Output data
+Print n numbers in one line - the new elements of sequence, in the order they were given.
+
+input
+4
+1 2 3 -4
+
+output
+3 4 5 -4
